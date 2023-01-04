@@ -6,7 +6,7 @@
 <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=2000&pause=2000&width=435&lines=i%27m%20a%20imaginary%20person+:);+created+by+owncodezs🤞"/>
 </div>
 
-Contact me [Owncodezs](https://github.com/Owncodezs/)
+Contact me [itsmanibharathi](https://github.com/itsmanibharathi/)
 
 
 <details><br>
